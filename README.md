@@ -12,5 +12,6 @@
 |    Name        | Link         |
 | ------------- |-------------| 
 | Magento      | [🌐](https://magento.com/) |
-
+| Prestashop |[🌐](https://www.prestashop.com/en)
+| Opencart |[🌐](https://www.opencart.com/)
 
