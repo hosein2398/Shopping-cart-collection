@@ -17,7 +17,7 @@ By platform:
 ## Php
 
 |    Name        | Link         | Open-souese? | Free?|
-| ------------- |-------------| 
+| ------------- |-------------|-------------|-------------|
 | Magento      | [🌐](https://magento.com/) | Yes | Yes|
 | Prestashop |[🌐](https://www.prestashop.com/en) | Yes | Yes|
 | Opencart |[🌐](https://www.opencart.com/) | Yes | Yes|
