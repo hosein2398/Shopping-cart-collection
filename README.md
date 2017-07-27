@@ -31,6 +31,7 @@ By platform:
 |    Name        | Link         | Open-souese? | Free?|
 | ------------- |-------------|-------------|-------------|
 | Woocommerce      | [🌐](https://woocommerce.com/) | Yes | Yes|
+| Shopify      | [🌐](www.shopify.com) | N/A | N/A |
 
 ## Joomla
 |    Name        | Link         | Open-souese? | Free?|
