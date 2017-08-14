@@ -25,7 +25,33 @@ By platform:
 | X-cart|[🌐](https://www.x-cart.com/)|Yes | Yes|
 | CS-Cart | [🌐](https://www.cs-cart.com) |Yes | Yes |
 | Avactis | [🌐](https://www.avactis.com/) |Yes | Yes |
-| Zen-cart | [🌐](https://www.zen-cart.com/) |Yes | Yes |
+| Abantecart | [🌐](http://www.abantecart.com/) |Yes | Yes |
+| Zen-cart | [🌐](https://www.zen-cart.com/) |N/A | N/A |
+| Sylius | [🌐](http://sylius.org/) |N/A | N/A |
+| Pimcore | [🌐](https://www.pimcore.org/en) |N/A | N/A |
+| LaravelShoppingcart (Laravel) | [🌐](https://github.com/Crinsane/LaravelShoppingcart) | Yes | Yes |
+| Mage2 (Laravel) | [🌐](http://mage2.website/) | Yes | Yes |
+| Laracart (Laravel) | [🌐](https://github.com/lukepolo/laracart) | Yes | Yes |
+| Kudos (Laravel) | [🌐](https://kudos.store/) | Yes | Yes |
+| Yupe (Yii) | [🌐](https://github.com/yupe/yupe) | Yes | Yes |
+| Dotplant2 (Yii) | [🌐](https://github.com/DevGroup-ru/dotplant2) | Yes | Yes |
+| Funshop (Yii) | [🌐](https://github.com/funson86/funshop) | Yes | Yes |
+| Whatacart (Yii) | [🌐](http://whatacart.com/) | Yes | Yes |
+| Microweber | [🌐](https://microweber.com/) | Yes | Yes |
+| Thelia | [🌐](https://thelia.net/) | Yes | Yes |
+| Shopware | [🌐](https://de.shopware.com/) | Yes | Yes |
+| Elcodi (Symfony) | [🌐](http://elcodi.io/) | Yes | Yes |
+| Sonata (Symfony) | [🌐](https://sonata-project.org/) | Yes | Yes |
+| Wellcommerce | [🌐](http://wellcommerce.org/) | Yes | Yes |
+| Thirtybees | [🌐](https://thirtybees.com/download/) | Yes | Yes |
+| Arastta | [🌐](https://arastta.org/) | Yes | Yes |
+| Rubedo (Zend) | [🌐](https://github.com/WebTales/rubedo) | Yes | Yes |
+| Coreshop | [🌐](http://www.coreshop.org/) | Yes | Yes |
+| Open-eshop | [🌐](https://open-eshop.com/) | Yes | Yes |
+| Cubecart | [🌐](https://www.cubecart.com/) | Yes | Yes |
+| Aimeos | [🌐](https://aimeos.org/) | Yes | Yes |
+| Litecart | [🌐](https://www.litecart.net/) | Yes | Yes |
+| Kommerce | [🌐](http://kommerce.inklabs.co/) | Yes | Yes |
 
  <a name="Javascript(nodejs)"></a>
 ## Javascript(nodejs)
@@ -70,6 +96,7 @@ By platform:
 | Shopify      | [🌐](https://www.shopify.com/) | N/A | N/A |
 | Easydigitaldownloads | [🌐](https://easydigitaldownloads.com/) | N/A | N/A |
 | Shopp      | [🌐](https://shopplugin.net/) | N/A | N/A |
+| Jigoshop      | [🌐](https://www.jigoshop.com/) | Yes | Yes |
 
  <a name="Joomla"></a>
 ## Joomla
