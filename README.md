@@ -14,7 +14,17 @@ By platform:
 + [Joomla](#Joomla)
 + [Drupal](#Drupal)
 
-## Php
+ <a name="Javascript(nodejs)"></a>
+## Javascript(nodejs)
+|    Name        | Link         | Open-souese? | Free?|
+| ------------- |-------------|-------------|-------------|
+| Simplecartjs      | [🌐](http://simplecartjs.org/) | Yes | Yes|
+| Reactioncommerce      | [🌐](https://reactioncommerce.com/) | N/A | N/A|
+| Traider      | [🌐](http://traider.io/) | Yes | Yes |
+
+
+ <a name="PHP"></a>
+## PHP
 
 |    Name        | Link         | Open-souese? | Free?|
 | ------------- |-------------|-------------|-------------|
@@ -26,18 +36,22 @@ By platform:
 | Avactis | [🌐](https://www.avactis.com/) |Yes | Yes |
 | Zen-cart | [🌐](https://www.zen-cart.com/) |Yes | Yes |
 
-
+ <a name="Wordpress"></a>
 ## Wordpress
 |    Name        | Link         | Open-souese? | Free?|
 | ------------- |-------------|-------------|-------------|
 | Woocommerce      | [🌐](https://woocommerce.com/) | Yes | Yes|
 | Shopify      | [🌐](https://www.shopify.com/) | N/A | N/A |
+| Easydigitaldownloads | [🌐](https://easydigitaldownloads.com/) | N/A | N/A |
+| Shopp      | [🌐](https://shopplugin.net/) | N/A | N/A |
 
+ <a name="Joomla"></a>
 ## Joomla
 |    Name        | Link         | Open-souese? | Free?|
 | ------------- |-------------|-------------|-------------|
 | Abantecart      | [🌐](http://www.abantecart.com/) | Yes | Yes|
 
+ <a name="Drupal"></a>
 ## Drupal
 |    Name        | Link         | Open-souese? | Free?|
 | ------------- |-------------|-------------|-------------|
