@@ -51,6 +51,17 @@ By platform:
 | Shuup      | [🌐](https://www.shuup.com/en/) | N/A | N/A |
 | Oscarcommerce      | [🌐](http://oscarcommerce.com/) | N/A | N/A |
 
+ <a name="Ruby"></a>
+## Ruby
+|    Name        | Link         | Open-souese? | Free?|
+| ------------- |-------------|-------------|-------------|
+| Spreecommerce    | [🌐](https://spreecommerce.com/) | N/A | N/A |
+| Solidus     | [🌐](https://solidus.io/) | N/A | N/A |
+| Sharetribe      | [🌐](https://www.sharetribe.com/) | N/A | N/A |
+| ror-e     | [🌐](http://www.ror-e.com/) | N/A | N/A |
+| Piggybak     | [🌐](http://www.piggybak.org/) | N/A | N/A |
+| Trado     | [🌐](https://trado.io/) | N/A | N/A |
+
  <a name="Wordpress"></a>
 ## Wordpress
 |    Name        | Link         | Open-souese? | Free?|
